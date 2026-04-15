@@ -122,7 +122,7 @@ Matching criteria:
 
 ## 📈 Visualization
 
-![Tracking Results](results/qualitative.png)
+![Tracking Results](results/qualitative.gif)
 
 ---
 
